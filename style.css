@@ -49,7 +49,7 @@ header{
     font-size: 30px;
     z-index: 10001;
     cursor: pointer;
-    display: "";
+    display: none;
 }
 
 #menu-icon:hover{
